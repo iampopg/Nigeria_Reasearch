@@ -33,7 +33,7 @@ This research was built for one reason: **to know everything that needs to be kn
 
 | | |
 |:---|:---|
-| 🌍 Website | [speakupnigeria.ng](https://speakupnigeria.ng) |
+| 🌍 Website | [speakupnigeria.ng](https://www.speakupnigeria.ng) |
 | 🐦 X / Twitter | [@iampopg](https://x.com/iampopg) |
 
 
