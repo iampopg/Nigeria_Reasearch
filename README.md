@@ -371,6 +371,14 @@ All candidate research and scoring in this repository was conducted using the **
 **Non-partisan statement:**  
 The author of this repository **does not support, endorse, or oppose any political party, candidate, or coalition** featured in this research. No score, ranking, or finding in this repository should be interpreted as a political endorsement or recommendation of any kind.
 
+**This research does not decide for you:**  
+Data is one lens — not the only one. Numbers can tell you what a candidate *did*, but they cannot fully capture everything that matters to you as a Nigerian. Your personal values, your lived experience, your community, your instincts — these are real and they matter. Read the evidence, weigh it against your own judgment, and make your own decision.
+
+> *"Change begins with you."*  
+> — **President Muhammadu Buhari**
+
+Regardless of who you support — **go out and vote**. An uncast vote is a decision handed to someone else. Nigeria's future is shaped at the ballot box, not on the internet. Register. Show up. Make your voice count.
+
 **Scope:**  
 This project is strictly for **educational and research purposes**. All scores are evidence-based, reproducible from the source documents provided, and applied equally to all candidates using the same framework.
 
