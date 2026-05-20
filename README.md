@@ -386,6 +386,6 @@ This project is strictly for **educational and research purposes**. All scores a
 
 <div align="center">
 
-*Deep AI research · Gemini (paid) · ChatGPT (paid) · Kimi 2.6 (paid) · Human-reviewed · Non-partisan · Built for Nigeria 2027*
+*Deep AI research · Gemini · ChatGPT · Kimi 2.6 · Human-reviewed · Non-partisan · Built for Nigeria 2027*
 
 </div>
