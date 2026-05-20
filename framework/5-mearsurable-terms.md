@@ -1,45 +1,253 @@
-# Executive Summary  
-A candidate’s fitness for high office can be assessed across five core dimensions drawn from political science, leadership studies, public administration and ethics.  **Communication & Interpersonal Skill** (the ability to articulate ideas, persuade and empathise) and **Policy Vision & Strategic Orientation** (a clear long-term agenda) echo Fred Greenstein’s classic pillars of presidential leadership (communication to the public; policy vision)【45†L49-L53】【24†L55-L58】.  **Organizational/Administrative Competence** (effective management of government and bureaucracy) and **Political Acumen & Crisis Management** (coalition-building, negotiation and problem-solving under pressure) likewise feature in leadership theories and case studies【45†L49-L53】【61†L418-L426】.  Crucially, **Ethical Integrity** – honesty, transparency and rule-of-law commitment – underpins public trust and is repeatedly rated as the most vital quality【39†L58-L65】【63†L60-L67】.  
+# 📐 The 5 Measurable Terms — Leadership Scoring Framework
 
-Each dimension can be defined and justified through multiple scholarly lenses (e.g. transformational leadership, trait theory, democratic governance) and operationalised by qualitative and quantitative indicators.  For example, communication ability can be measured by expert ratings of debate performance or by public-opinion surveys on message clarity【45†L49-L53】【24†L55-L58】; vision can be proxied by the coherence of policy programmes or fulfilment of campaign promises【54†L55-L58】【60†L1-L4】; managerial capacity by implementation rates or organizational audits【41†L12-L19】【45†L49-L53】; and integrity by absence of corruption findings or public trust metrics【39†L58-L65】【63†L121-L124】.  Weights can then be assigned (e.g. a 0–10 score per dimension, weighted equally or with heavier weight on ethics) and combined into an overall rubric.  A sample scoring flowchart is shown below. 
+> This framework defines how every candidate in this research is evaluated.  
+> It is drawn from political science, leadership studies, public administration, and ethics scholarship.  
+> The same framework was applied equally to all candidates, by all three AI systems.
 
-　【24†L55-L58】【45†L49-L53】  As shown in the comparison table, each measure has distinct strengths (e.g. communication drives consensus) and biases (e.g. charisma may mask lack of substance), and cultural contexts can alter their relative importance.  For instance, high-**power distance** societies may prize stability and loyalty over flamboyant rhetoric, while individualistic democracies emphasise visionary appeals (House et al., 2004).  Policy implications include urging voters and party selectors to use such multidimensional scorecards; for example, media outlets could report candidate scores on these dimensions, and institutions might formalise vetting or training programmes (much as boards vet corporate CEOs)【63†L60-L67】【61†L424-L427】.  
+---
 
-  
+## Why This Framework Exists
 
-| **Measure**                     | **Definition**                                                     | **Indicators/Metrics**                                                                                                           | **Data/Methods**                                                        | **Pros**                                                                      | **Cons/Biases**                                                                                                                      |
-|:-------------------------------|:-------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|:----------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
-| **Communication & Interpersonal Skill** | Ability to articulate ideas clearly, persuade, listen and empathise.  Key for inspiring citizens and building support【45†L49-L53】【24†L55-L58】. | **Qualitative:** Rhetorical clarity in speeches; empathy/humility (content analysis)【24†L55-L58】【9†L411-L418】;<br>**Quantitative:** Poll ratings for clarity and credibility; media sentiment scores; social-media engagement metrics.  | - Public opinion surveys (e.g. ANES-type) on candidate’s communication.<br>- Expert evaluations (e.g. academic or journalist ratings).<br>- Debate/press-conference transcripts coded for clarity/empathy.   | + Mobilises public, can build consensus (transformational leadership)【24†L55-L58】<br>+ Directly measurable via surveys/statistics.<br>+ Critical in crises (symbolic reassurance). | – May favour showmanship over substance (“Teflon” charisma)【61†L459-L464】.<br>– Can be gamed by spin or media-savvy technique.<br>– Biased by cultural style (e.g. direct vs indirect communication).           |
-| **Policy Vision & Strategic Orientation** | Clarity of long-term goals and plans.  Involves setting a compelling future direction (Greenstein’s “policy vision”)【45†L49-L53】【24†L55-L58】.  | **Qualitative:** Existence and coherence of published platforms/manifestos; narrative consistency across speeches【60†L1-L4】【61†L459-L464】;<br>**Quantitative:** Number of campaign promises articulated/fulfilled; alignment with socioeconomic forecasts.   | - Content analysis of policy documents and speeches (visionary language)【60†L1-L4】.<br>- Expert scoring of policy platform coherence.<br>- Outcome data (e.g. key indicators versus stated targets).    | + Provides direction and motivation (linked to higher trust)【60†L1-L4】【61†L459-L464】.<br>+ Visionary leaders (Mandela, Reagan) often achieve lasting support【61†L459-L464】.<br>+ Enables proactive policymaking and planning. | – Vague or abstract visions may mislead (e.g. empty slogans).<br>– Hard to quantify “goodness” of vision; may reflect ideology bias.<br>– Overly rigid vision can hinder adaptability when conditions change.           |
-| **Organizational/Administrative Competence** | Effectiveness in managing government machinery: delegation, bureaucracy oversight, and policy implementation【41†L12-L19】【45†L49-L53】.  | **Qualitative:** Expert assessment of governance competence; civil service confidence surveys;<br>**Quantitative:** Rate of legislative agenda implemented; public sector performance indices (e.g. World Bank Government Effectiveness).  | - Administrative data (budget execution, program rollout rates).<br>- Reviews/audits of government efficiency.<br>- Surveys of public servants or stakeholders on managerial skill.             | + Directly affects policy delivery; prevents administrative bottlenecks【41†L12-L19】.<br>+ Measurable via performance metrics (e.g. GDP growth, corruption indices).<br>+ Emphasized in public administration literature (managerial competence theory). | – Technical competency may not translate to political skill.<br>– May overvalue continuity over innovation (bureaucratic inertia).<br>– Context-dependent (capacity differs by country)【7†L198-L207】.           |
-| **Political Acumen & Crisis Management** | Skill in negotiation, coalition-building, conflict resolution and navigating crises【45†L49-L53】【61†L418-L426】. Involves using informal “power” to solve problems. | **Qualitative:** Record of successful bipartisan deals or negotiated agreements; crisis-response narrative quality;<br>**Quantitative:** Legislative success rate (fraction of bills passed); measured stability indicators during crises (e.g. conflict downtime). | - Historical analysis of past negotiations/crisis outcomes (e.g. cabinet support rates).<br>- Expert surveys (political scientists’ ratings of candidate’s savvy).<br>- Network analysis of alliances in parliament. | + Captures real-world problem-solving and leadership under stress【61†L418-L426】.<br>+ Crisis-tested leadership often cements legitimacy (e.g. wartime presidents).<br>+ Emphasized in contingency/situational leadership theories (Fiedler). | – Success often depends on external factors (e.g. international context).<br>– Difficult to disentangle luck from skill in crises.<br>– Cultural bias: some systems value strongman decisive action over negotiation.           |
-| **Ethical Integrity & Values**   | Honesty, consistency of word and deed, commitment to law and fairness【39†L58-L65】【61†L424-L427】.  (Rooted in *ethical* and *transformational* leadership theory【63†L60-L67】.) | **Qualitative:** Vetting of public record for scandals; expert judgements of character;<br>**Quantitative:** Corruption Perception Index (if already in power), number of ethics/code violations; scores on “honesty” in voter surveys. | - Judicial or oversight reports on misconduct.<br>- Transparency data (financial disclosures, asset declarations).<br>- Public trust surveys specifically about integrity (e.g. Pew, Edelman).           | + Most consistently linked to long-term legitimacy; essential for trust (Buffett’s “killer without integrity”【39†L76-L84】).<br>+ Predicts follower loyalty and reduces institutional erosion【39†L58-L65】【63†L60-L67】.<br>+ Encourages accountability. | – Hard to measure absence of corruption – many violations go unseen.<br>– Perceptions can be skewed by media slant or partisan attacks.<br>– Ethical standards vary: “reality gap” between legal and moral expectations.           |
+Evaluating a presidential candidate is not about gut feeling, tribal loyalty, or campaign promises.  
+It is about **what they actually did** when they had power — and whether the evidence suggests they can be trusted with more of it.
+
+This framework converts that question into five measurable dimensions, each scored from **0 to 10**, combined into a weighted total, and tested against a minimum qualification threshold.
+
+---
+
+## The 5 Dimensions at a Glance
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   1. 🗣️  Communication & Interpersonal Skill        (20%)      │
+│   2. 🎯  Policy Vision & Strategic Orientation      (20%)      │
+│   3. 🏛️  Organizational / Administrative Competence (20%)      │
+│   4. ⚡  Political Acumen & Crisis Management        (20%)      │
+│   5. ⚖️  Ethical Integrity & Values                 (20%)      │
+│                                                                 │
+│         Equal weight = 20% each → Total out of 10              │
+│         Integrity-weighted variant → Integrity raised to 30%   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Scoring Flow
 
 ```mermaid
 graph LR
-  C["Communication (score)"] -->|20%| S(Overall\, Weighted\, Score)
-  V["Vision & Strategy"] -->|20%| S
-  O["Org/Administration"] -->|20%| S
-  P["Political Skill"] -->|20%| S
+  C["Communication"] -->|20%| S("Overall Score")
+  V["Vision"] -->|20%| S
+  O["Administration"] -->|20%| S
+  P["Political Acumen"] -->|20%| S
   I["Integrity"] -->|20%| S
-  S -->|>= Threshold| F([Fit for Leadership])
-  S -->|< Threshold| NF([Not Fit])
+  S -->|"Score >= 5.5 AND Integrity >= 4"| F(["QUALIFIES"])
+  S -->|"Fails either gate"| NF(["DISQUALIFIED"])
 ```
 
-**1. Communication & Interpersonal Skill** – This covers public speaking, message framing, listening and empathy.  Greenstein identifies “communication to the public” as a chief presidential quality【45†L49-L53】, and leadership textbooks stress that clear articulation of goals mobilises followers. For example, Sheehan & Sheehan (2006) list “effective communication style” as a top characteristic of successful presidents【24†L55-L58】.  High emotional intelligence – the capacity to read audiences and adjust tone – is also critical (Greenstein’s sixth element【7†L198-L207】). Empirical indicators include clarity ratings (e.g. survey respondents’ approval of a leader’s rhetoric), number and reach of speeches, and interactive measures (town halls, media engagement).  Methods include public-opinion polls (e.g. questions on whether a candidate explains ideas clearly), expert workshops, and content analysis of debate transcripts. **Strengths:** Good communicators can unify disparate groups and explain complex policies in persuasive terms, boosting legitimacy.  **Limitations:** Charisma can mask incompetence (“pulpit might make a demagogue”) and be culturally relative (direct styles work in some cultures but not others). Measurement may be biased by media environment or negative campaigning.  
+---
 
-**2. Policy Vision & Strategic Orientation** – This is the candidate’s long-term policy blueprint and ability to formulate a coherent strategy for the future.  A clear national vision (e.g. Greenstein’s “policy vision”) is seen as crucial: leaders who “present a national vision” effectively gain public trust【60†L1-L4】【61†L459-L464】. Transformational leadership theory likewise emphasizes visionary goals as motivational (Bass 1985). Indicators include existence and consistency of a published agenda, clarity of campaign platforms, and expert ratings of strategic soundness.  Quantitative proxies might be the fraction of campaign pledges fulfilled once in office, or alignment of proposals with independent forecasts (e.g. budget gap projections).  Analysts might score vision via expert panels or by keyword analysis (e.g. presence of future-oriented terms). **Strengths:** A well-articulated vision can inspire and coordinate collective action; historically, presidents like Reagan or Mandela leveraged vision to weather crises【61†L459-L464】. **Limitations:** Visions can be vague or opportunistic, and tests of “goodness” are normative; different ideologies value different futures. Vision can also calcify into inflexibility: if reality changes, a rigid strategy may fail.  
+## Fitness Thresholds
 
-**3. Organizational/Administrative Competence** – This dimension gauges capability in managing the executive branch and policy implementation.  It corresponds to Greenstein’s “organizational capacity”【45†L49-L53】. Key aspects include delegation skill and bureaucratic management (Lee & Kim, 2018 define it as the “ability to delegate, supervise, and implement”【41†L12-L19】). Empirical metrics include bureaucratic performance scores (e.g. efficiency or corruption indices), the percentage of policy initiatives executed, and civil service survey feedback.  Data sources are administrative records (audit reports, implementation timelines) and large surveys of public employees or stakeholders.  Behavioral tests might involve simulations of crisis management or interview assessments. **Strengths:** Ensures that declared policies actually translate into outcomes; effective managers can prevent leaks and scandals. **Limitations:** May be overstated if the candidate lacks political support; some systems separate technocratic skills from elected leadership. Measurement can be culturally biased (Western criteria may not fit other governance models), and data are often lagging indicators (results appear only after time).  
+| Status | Criteria |
+|:---|:---|
+| ✅ **Strongly Fit** | Overall > 6.5 **AND** Integrity ≥ 4 |
+| ✅ **Fit** | Overall 5.5–6.5 **AND** Integrity ≥ 4 |
+| ⚠️ **Marginal** | Overall 5.0–5.4 **OR** Integrity < 4 |
+| ❌ **Not Fit** | Overall < 5.0 |
 
-**4. Political Acumen & Crisis Management** – This reflects skill in negotiation, coalition-building, problem-solving under pressure, and crisis leadership.  Greenstein calls this “political skill”【45†L49-L53】, and Lee/Kim (2018) highlight “political power” – the ability to resolve conflicts and show determination in crises【61†L418-L426】.  Indicators include legislative success rate (e.g. share of executive-sponsored bills passed), number of bipartisan deals brokered, or network measures of coalition strength. Qualitative cues are performance in real crises (wars, economic shocks) and peer evaluations of savvy. Methods include expert surveys and historical case analysis (how effectively the candidate managed past disputes), as well as psychological leadership simulations (assessing decision-making styles).  **Strengths:** Captures adaptive problem-solving and the “nuts-and-bolts” of governance; effective crisis managers (e.g. wartime or post-disaster presidents) often secure high public approval.  **Limitations:** Outcomes heavily depend on context (an easy situation can make any leader look good). Achievements may owe much to luck or institutions. Also, over-emphasis on forceful resolution can underrate deliberative or consensus approaches. Cultural caveat: some electorates prefer strong decisive action (even authoritarian) while others value deliberation.  
+> **Integrity is a veto dimension.**  
+> A candidate can score 10/10 in every other area and still be disqualified if their integrity score falls below 4.  
+> This reflects the consistent finding in leadership research that integrity is *"the most vital quality and most consistently linked to long-term legitimacy."*
 
-**5. Ethical Integrity & Values** – Encompasses honesty, personal honor and commitment to the rule of law.  Leadership research repeatedly finds integrity to be foundational: one systematic review notes “academics and industry experts prioritize integrity as the most important leadership quality”【39†L58-L65】. Buff­ett’s dictum is echoed in political terms – a president’s lack of principle erodes trust【61†L424-L427】.  Quantitative measures include corruption indices (Corruption Perceptions Index, etc.), frequency of ethics investigations, or breaches of transparency laws. Public surveys asking voters how much they trust a candidate to “do what is right” are also used.  Qualitatively, background checks, past records, and moral leadership assessments (based on consis­tency of speech and action) are key. Methods range from forensic audit (checking financial disclosures) to psychological tests of moral reasoning. **Strengths:** High integrity builds legitimacy and stability. Ethical leaders “set the tone at the top” and gradually restore trust【63†L60-L67】. This dimension often has the strongest effect on citizen confidence【63†L121-L124】【39†L76-L84】. **Limitations:** It is hardest to measure objectively – “absence of evidence” is not “evidence of absence” of corruption. Perceptions can be distorted by biased media or smear campaigns. Cultural-context caveat: norms differ (e.g. gift-giving is normal in some cultures but taboo in others), and some electorates may forgive ethical lapses if linked to charisma.  
+---
 
-**Combining Measures (Rubric):**  A composite score can be built by rating each dimension on a consistent scale (e.g. 0–10 or 1–5) and applying weights.  Weights may be equal or tilted (for instance, giving extra weight to Integrity because of its central role in democracy【39†L58-L65】【61†L424-L427】).  For example, one could assign 20% to each dimension and set an overall fit-threshold (see flowchart).  A candidate might be deemed *“Strongly Fit”* if the weighted sum exceeds a threshold (e.g. 80/100) and has no fatal weaknesses (e.g. integrity score >8), *“Weak Fit”* if well below, or *“Marginal”* in between.  A mermaid flowchart illustrating this scoring approach is shown above.  In practice, rubric thresholds should be calibrated by historical analysis of past leaders.  **Strengths of combined scoring:** balances multiple angles, reduces single-factor bias. **Limitations:** Aggregating disparate qualities is inherently subjective (choosing weights involves normative judgment). Scores can mask important nuances (e.g. a candidate strong in 4 areas but scandal-ridden in integrity might score moderately). Expert panels and transparency in scoring can mitigate arbitrariness.  
+## The 5 Dimensions — Full Breakdown
 
-**Cross-Cultural & Contextual Caveats:**  The relative importance and expression of these measures vary by country and culture.  For instance, *“charismatic communication”* is prized in individualistic, low power-distance societies, while high-context cultures might prefer reserved eloquence and group harmony (empathy and consensus-building over bombastic speeches).  Similarly, *“integrity”* has universal appeal, but what constitutes ethical leadership can differ (e.g. patronage politics might be accepted in some developing states but condemned elsewhere). Comparative leadership surveys (e.g. GLOBE project) find some universals (vision and integrity often rank high everywhere) but also culture-specific traits (humility is more valued in Confucian cultures, for example).  Any scoring rubric must be applied with local calibration: constitutional systems differ (parliamentary vs presidential) and history shapes expectations (e.g. revolutionary countries may value transformative mission more than incremental stability).  Moreover, data availability varies – a candidate in an opaque regime may have little measurable record.  It is important to interpret scores “relatively” (how a candidate stands within his context) rather than assume cross-system comparability.  
+---
 
-**Policy Implications:**  For voters and civil society, these measures suggest an informational *scorecard* approach to evaluating candidates.  Media and NGOs could survey or fact-check candidates on these dimensions (e.g. publish “scores” for debate performance, policy clarity, anti-corruption pledges, etc.).  Parties and primaries could institutionalise leadership assessments: for example, requiring candidates to undergo vetting on ethics and competence (analogous to corporate CEO vetting) or to present detailed strategic plans.  Leadership development programs (already used in business) might be adapted for politicians, to strengthen weaker dimensions (e.g. communication training or crisis simulation workshops). Electoral laws could mandate disclosure (financial assets, conflict of interest statements) linked to the integrity criterion.  Finally, at the institutional level, mechanisms like independent ethics commissions or legislative oversight (judiciary, ombudsmen) help hold leaders to these standards.  In short, a multi-criteria “fitness” framework encourages more holistic candidate scrutiny, which could improve democratic choice and institutional resilience【63†L60-L67】【61†L424-L427】.  
+### 1. 🗣️ Communication & Interpersonal Skill
 
-**Sources:** Established studies of presidential leadership (Greenstein 2000【45†L49-L53】; Northouse 2016【24†L55-L58】), comparative leadership surveys, and empirical research on trust (Lee & Kim 2018【61†L418-L426】; Nawaz et al. 2023【39†L58-L65】; Mozumder 2021【63†L60-L67】).  The above synthesis draws on political science, psychology and management literatures, combining normative leadership theory with measurable indicators【61†L429-L434】【39†L76-L84】.
+**What it measures:**  
+The ability to articulate ideas clearly, persuade, listen, and connect with people — from grassroots voters to international partners.
+
+**Why it matters:**  
+A leader who cannot communicate cannot govern. Communication drives public trust, crisis reassurance, coalition-building, and the ability to explain difficult decisions to ordinary people.
+
+**What counts as evidence:**
+- Clarity and consistency of public speeches and messaging
+- Ability to connect emotionally with different audiences
+- Performance during crises — does the leader reassure or inflame?
+- Track record in negotiations and interpersonal diplomacy
+- Media engagement, town halls, press conferences
+
+**Strengths of this measure:**
+- Directly observable and measurable
+- Critical during national emergencies
+- Drives public mobilization and consensus
+
+**Limitations:**
+- Charisma can mask incompetence — a great speaker is not automatically a great leader
+- Can be gamed by media-savvy spin
+- Communication styles vary by culture; what works in Lagos may not work in Kano
+
+---
+
+### 2. 🎯 Policy Vision & Strategic Orientation
+
+**What it measures:**  
+The clarity, coherence, and realism of a candidate's long-term plan for the country — not slogans, but an actual blueprint.
+
+**Why it matters:**  
+A president without a clear vision is reactive, not proactive. Vision determines what a government prioritizes, how it allocates resources, and whether it has a direction beyond surviving the next election cycle.
+
+**What counts as evidence:**
+- Published manifesto or policy platform — does it exist? Is it detailed?
+- Consistency between what was promised and what was delivered in past roles
+- Alignment of proposals with Nigeria's actual economic and structural realities
+- Long-term thinking vs. short-term populism
+
+**Strengths of this measure:**
+- Provides a testable standard — promises can be checked against outcomes
+- Visionary leaders historically achieve more durable results
+- Enables proactive policymaking rather than crisis management
+
+**Limitations:**
+- Vague visions are easy to fake — slogans are not strategy
+- Overly rigid vision can become a liability when circumstances change
+- "Goodness" of a vision is partly subjective and ideologically influenced
+
+---
+
+### 3. 🏛️ Organizational / Administrative Competence
+
+**What it measures:**  
+The ability to actually run a government — managing people, delegating effectively, executing policy, and delivering results through institutions.
+
+**Why it matters:**  
+This is the most empirical dimension. It answers the question: when this person had power before, did things actually get better? IGR growth, debt management, infrastructure delivery, education outcomes, healthcare metrics — these are the receipts.
+
+**What counts as evidence:**
+- Revenue generation and fiscal management during previous office
+- Infrastructure delivery — roads, power, hospitals, schools built or completed
+- Debt profile — did they leave the state/country better or worse off financially?
+- Education and health outcome metrics during tenure
+- Audit reports, budget execution rates, institutional reforms implemented
+
+**Strengths of this measure:**
+- Most objective and data-driven of all five dimensions
+- Directly tied to real outcomes for real people
+- Hard to fake — the numbers either improved or they didn't
+
+**Limitations:**
+- Technical competence does not always translate to political survival
+- Some results take years to show — a leader may plant seeds they never harvest
+- External factors (oil prices, global recessions) can distort outcomes
+
+---
+
+### 4. ⚡ Political Acumen & Crisis Management
+
+**What it measures:**  
+The raw political skill to navigate Nigeria's complex, high-stakes institutional environment — building coalitions, surviving attacks, managing crises, and getting things done despite opposition.
+
+**Why it matters:**  
+Nigeria's political system is not a clean meritocracy. A candidate who cannot survive its pressures, build alliances across regions, and manage crises under fire will not be able to govern effectively — regardless of how good their intentions are.
+
+**What counts as evidence:**
+- Coalition-building across ethnic, regional, and party lines
+- Survival under political attack — impeachment attempts, EFCC pressure, party defections
+- Legislative success rate — ability to pass key bills and reforms
+- Crisis response — Boko Haram, economic shocks, ethnic conflicts, health emergencies
+- Ability to manage internal party dynamics and elite relationships
+
+**Strengths of this measure:**
+- Captures the real-world complexity of Nigerian governance
+- Crisis-tested leaders often earn lasting public legitimacy
+- Reflects the difference between a good candidate and an effective president
+
+**Limitations:**
+- Political skill can be used for manipulation, not just governance
+- Outcomes sometimes depend on luck or external context, not skill alone
+- High political acumen without integrity produces dangerous leaders
+
+---
+
+### 5. ⚖️ Ethical Integrity & Values
+
+**What it measures:**  
+Honesty, transparency, consistency between words and actions, and commitment to the rule of law — including how a candidate behaved when no one was watching.
+
+**Why it matters:**  
+This is the veto dimension. Leadership research consistently identifies integrity as the single most important quality for long-term legitimacy. A president without integrity does not just fail personally — they corrode institutions, normalize corruption, and make every other dimension meaningless.
+
+**What counts as evidence:**
+- Domestic and international corruption investigations — EFCC, court records, Senate probes
+- Exposure in global financial leaks — Pandora Papers, FinCEN, FCPA violations
+- Asset declaration compliance and transparency
+- Consistency between public statements and private conduct
+- Treatment of public funds during previous office
+
+**Strengths of this measure:**
+- Most consistently linked to long-term democratic legitimacy
+- Predicts institutional erosion or stability better than any other dimension
+- Sets the tone for the entire government — integrity at the top filters downward
+
+**Limitations:**
+- Hardest to measure objectively — many violations are never exposed
+- Perceptions can be distorted by politically motivated attacks
+- The line between legal and ethical is not always clear
+
+---
+
+## How Scores Are Combined
+
+### Equal Weight (Standard)
+All five dimensions carry **20% each**.  
+Total = sum of all five scores ÷ 5 → result out of 10.
+
+### Integrity-Weighted Variant
+Integrity is raised to **30%**, with the remaining four dimensions at **17.5% each**.  
+This reflects the framework's position that integrity is the most critical single dimension.
+
+| Scenario | Integrity Weight | Other Dimensions |
+|:---|:---:|:---:|
+| Equal Weight | 20% | 20% each |
+| Integrity-Weighted | 30% | 17.5% each |
+
+---
+
+## Scale Calibration
+
+| Score | What It Means |
+|:---:|:---|
+| **9–10** | Exceptional performance, minimal documented flaws |
+| **7–8** | Strong performance with minor or manageable weaknesses |
+| **5–6** | Moderate performance with significant documented flaws |
+| **3–4** | Weak performance or serious documented failures |
+| **1–2** | Catastrophic failures, major international scandals, or disqualifying conduct |
+| **0** | No evidence of competence, or overwhelming evidence of total failure |
+
+> No candidate in this research scored 9 or 10 in any dimension.  
+> Every candidate in Nigeria's 2027 field carries material, documented flaws.
+
+---
+
+## Academic Grounding
+
+This framework synthesizes findings from:
+
+| Source | Contribution |
+|:---|:---|
+| Greenstein (2000) | Six presidential qualities: communication, vision, organizational capacity, political skill, cognitive style, emotional intelligence |
+| Northouse (2016) | Transformational leadership theory — vision and communication as core drivers |
+| Lee & Kim (2018) | Political power and administrative competence as measurable governance dimensions |
+| Nawaz et al. (2023) | Integrity as the most consistently cited leadership quality across expert surveys |
+| Mozumder (2021) | Ethical leadership and its direct link to public trust and institutional legitimacy |
+| Bass (1985) | Transformational leadership — visionary goals as motivational anchors |
+
+---
+
+*Framework applied equally to all candidates · Same criteria · Same scoring scale · No exceptions*
